@@ -1,3 +1,4 @@
 import QRCode from "./qr-code";
+import NFTCard from "./nft-card";
 
-export { QRCode }
+export { QRCode, NFTCard }

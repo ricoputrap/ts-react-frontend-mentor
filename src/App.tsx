@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
-import { QRCode } from './pages';
+import { NFTCard, QRCode } from './pages';
 
 function App() {
   return (
     <div className="App">
-      <QRCode />
+      {/* <QRCode /> */}
+      <NFTCard />
     </div>
   );
 }
