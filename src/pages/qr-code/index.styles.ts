@@ -12,7 +12,7 @@ export const Screen = styled.div`
   height: 100vh;
   display: flex;
   justify-content: center;
-  padding-top: 50px;
+  align-items: center;
 `;
 
 export const Wrapper = styled.div`
